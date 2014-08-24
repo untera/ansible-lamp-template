@@ -1,0 +1,7 @@
+---
+    php_ppa: php5
+    doc_root: /opt/template
+    sys_packages: ["git"]
+    timezone: Europe/London
+    dist: truty
+    php_packages: ["php5-curl","php5-mysql","php5-xdebug"]
